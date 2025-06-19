@@ -6,8 +6,6 @@ This is a modern web application built with [Next.js](https://nextjs.org) and en
 
 ![Uploading Screenshot 2025-06-15 at 7.50.48 PM.png…]()
 
-## Live Demo
--** https://food-recipes-menu.vercel.app/
 
 ## Tech Stack
 
@@ -53,16 +51,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Tailwind CSS for styling
 - Icon support with multiple icon libraries
 
-## Learn More
-
-To learn more about the technologies used in this project:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Flowbite Documentation](https://flowbite.com/docs/getting-started/introduction/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-
-## Deployment
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
